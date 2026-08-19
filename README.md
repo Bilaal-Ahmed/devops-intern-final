@@ -1,5 +1,7 @@
 # DevOps Intern Final Assessment
 
+[![DevOps CI](https://github.com/Bilaal-Ahmed/devops-intern-final/actions/workflows/ci.yml/badge.svg)](https://github.com/Bilaal-Ahmed/devops-intern-final/actions/workflows/ci.yml)
+
 ## Student Information
 
 **Name:** Bilal Ahmed  
