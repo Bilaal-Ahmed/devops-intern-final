@@ -30,3 +30,13 @@ The `hello.py` script is a simple Python application that prints:
 
 ```text
 Hello, DevOps!
+
+
+## Step 3: Docker
+
+The `hello.py` application is containerized using Docker.
+
+### Build the Docker Image
+
+```bash
+docker build -t devops-hello .
